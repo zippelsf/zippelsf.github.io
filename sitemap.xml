@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>https://zippelsf.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zippelsf.github.io/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -33,17 +28,47 @@
   </url>
   
   <url>
-    <loc>https://zippelsf.github.io/authors/szippel/</loc>
-    <lastmod>2020-10-14T15:22:22-04:00</lastmod>
+    <loc>https://zippelsf.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zippelsf.github.io/project/pressure-work/</loc>
-    <lastmod>2020-10-14T15:22:22-04:00</lastmod>
+    <loc>https://zippelsf.github.io/authors/szippel/</loc>
+    <lastmod>2020-10-15T09:45:01-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://zippelsf.github.io/authors/</loc>
+    <lastmod>2020-10-15T09:45:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zippelsf.github.io/post/o2-flux-at-wbnerr/</loc>
+    <lastmod>2020-10-15T09:45:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zippelsf.github.io/post/</loc>
+    <lastmod>2020-10-15T09:45:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zippelsf.github.io/tags/</loc>
+    <lastmod>2020-10-15T09:45:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zippelsf.github.io/tags/wbnerr/</loc>
+    <lastmod>2020-10-15T09:45:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zippelsf.github.io/tags/whoi/</loc>
+    <lastmod>2020-10-15T09:45:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zippelsf.github.io/project/pressure-work/</loc>
     <lastmod>2020-10-14T15:22:22-04:00</lastmod>
   </url>
   
@@ -58,23 +83,8 @@
   </url>
   
   <url>
-    <loc>https://zippelsf.github.io/tags/</loc>
-    <lastmod>2020-10-14T15:22:22-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zippelsf.github.io/project/smart-oceans-2020/</loc>
     <lastmod>2020-10-14T15:06:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zippelsf.github.io/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zippelsf.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -84,7 +94,7 @@
   
   <url>
     <loc>https://zippelsf.github.io/authors/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,11 +123,6 @@
   </url>
   
   <url>
-    <loc>https://zippelsf.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zippelsf.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -138,26 +143,6 @@
   </url>
   
   <url>
-    <loc>https://zippelsf.github.io/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zippelsf.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zippelsf.github.io/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zippelsf.github.io/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zippelsf.github.io/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -170,6 +155,10 @@
   <url>
     <loc>https://zippelsf.github.io/authors/robert-ford/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zippelsf.github.io/categories/</loc>
   </url>
   
 </urlset>

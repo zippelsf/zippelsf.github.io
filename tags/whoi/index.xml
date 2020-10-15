@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WHOI | Zippel Lab @ WHOI</title>
+    <link>https://zippelsf.github.io/tags/whoi/</link>
+      <atom:link href="https://zippelsf.github.io/tags/whoi/index.xml" rel="self" type="application/rss+xml" />
+    <description>WHOI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 09:45:01 -0400</lastBuildDate>
+    <image>
+      <url>https://zippelsf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>WHOI</title>
+      <link>https://zippelsf.github.io/tags/whoi/</link>
+    </image>
+    
+    <item>
+      <title>O2 Flux at WBNERR</title>
+      <link>https://zippelsf.github.io/post/o2-flux-at-wbnerr/</link>
+      <pubDate>Thu, 15 Oct 2020 09:45:01 -0400</pubDate>
+      <guid>https://zippelsf.github.io/post/o2-flux-at-wbnerr/</guid>
+      <description>&lt;p&gt;This week, Matt Long and I are testing a new theory we have about how much oxygen can be transfered between the air and water in estuaries and ponds. Currently, nost scientists apply a formula for this transfer (called the gas transfer velocity, because it has units of m/s) based only on the wind speed. This works in the open ocean where waves have room to grow, and are typically in lock step with the local wind. In small ponds and estuaries, the distance wind can blow over water (called fetch) limits the growth of waves, and changes how much turbulence is at the air/water boundary. These smaller waves and modified turbulence levels then change how much gas can be exchanged across the interface. We are collecting data this week at Waquoit Bay to test a new formula that includes fetch in estimating the gas tranfer velocity. Our hope is that this will improve estimates of oxygen flux in nearshore regions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
