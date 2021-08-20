@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zippel Lab @ WHOI</title>
+    <title>Seth Zippel | Zippel Lab @ WHOI</title>
     <link>https://zippelsf.github.io/authors/szippel/</link>
       <atom:link href="https://zippelsf.github.io/authors/szippel/index.xml" rel="self" type="application/rss+xml" />
-    <description>Zippel Lab @ WHOI</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 09:45:01 -0400</lastBuildDate>
+    <description>Seth Zippel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 15 Oct 2020 09:45:01 -0400</lastBuildDate>
     <image>
-      <url>https://zippelsf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Zippel Lab @ WHOI</title>
+      <url>https://zippelsf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Seth Zippel</title>
       <link>https://zippelsf.github.io/authors/szippel/</link>
     </image>
     
@@ -26,7 +26,7 @@
       <link>https://zippelsf.github.io/project/pressure-work/</link>
       <pubDate>Wed, 14 Oct 2020 15:22:22 -0400</pubDate>
       <guid>https://zippelsf.github.io/project/pressure-work/</guid>
-      <description>&lt;p&gt;Drs. Seth Zippel, Malcolm Scully, and  Jim Edson are seeking a doctoral student for an NSF-funded project to study turbulence in the oceanic and atmospheric boundary layers. We are hoping to understand the role of ocean waves, wave breaking, and turbulent pressure in atmosphere and ocean exchanges, which are central to understanding air/sea transfer of heat, gasses, and momentum. We will conduct two field experiments with a tower in Pamlico sound, NC, collecting wave, turbulence, and pressure data on both the atmosphere and water sides of the boundary. These findings will help improve our fundamental understanding of air/sea interactions, which are central to weather, climate, and upper ocean transport for biota, plastics, and other tracers. &lt;a href=&#34;https://mit.whoi.edu/admissions/research-opportunities/&#34;&gt;https://mit.whoi.edu/admissions/research-opportunities/&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Drs. Seth Zippel, Malcolm Scully, and  Jim Edson are seeking a doctoral student for an NSF-funded project to study turbulence in the oceanic and atmospheric boundary layers. We are hoping to understand the role of ocean waves, wave breaking, and turbulent pressure in atmosphere and ocean exchanges, which are central to understanding air/sea transfer of heat, gasses, and momentum. We will conduct two field experiments with a tower in Pamlico sound, NC, collecting wave, turbulence, and pressure data on both the atmosphere and water sides of the boundary. These findings will help improve our fundamental understanding of air/sea interactions, which are central to weather, climate, and upper ocean transport for biota, plastics, and other tracers. &lt;a href=&#34;https://mit.whoi.edu/admissions/research-opportunities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mit.whoi.edu/admissions/research-opportunities/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -35,14 +35,6 @@
       <link>https://zippelsf.github.io/project/smart-oceans-2020/</link>
       <pubDate>Wed, 14 Oct 2020 15:06:47 -0400</pubDate>
       <guid>https://zippelsf.github.io/project/smart-oceans-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Turbulence from Breaking Surface Waves at a River Mouth</title>
-      <link>https://zippelsf.github.io/publication/journal-article/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://zippelsf.github.io/publication/journal-article/</guid>
       <description></description>
     </item>
     

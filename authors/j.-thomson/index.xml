@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Thomson | Zippel Lab @ WHOI</title>
+    <link>https://zippelsf.github.io/authors/j.-thomson/</link>
+      <atom:link href="https://zippelsf.github.io/authors/j.-thomson/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Thomson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zippelsf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>J. Thomson</title>
+      <link>https://zippelsf.github.io/authors/j.-thomson/</link>
+    </image>
+    
+    <item>
+      <title>Turbulence from breaking surface waves at a river mouth</title>
+      <link>https://zippelsf.github.io/publication/zippel-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://zippelsf.github.io/publication/zippel-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface wave breaking over sheared currents: Observations from the Mouth of the Columbia River</title>
+      <link>https://zippelsf.github.io/publication/zippel-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://zippelsf.github.io/publication/zippel-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Air-sea interactions in the marginal ice zone</title>
+      <link>https://zippelsf.github.io/publication/zippel-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://zippelsf.github.io/publication/zippel-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave breaking and turbulence at a tidal inlet</title>
+      <link>https://zippelsf.github.io/publication/zippel-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://zippelsf.github.io/publication/zippel-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

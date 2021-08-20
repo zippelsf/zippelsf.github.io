@@ -5,52 +5,59 @@
     <link>https://zippelsf.github.io/publication/</link>
       <atom:link href="https://zippelsf.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zippelsf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zippelsf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://zippelsf.github.io/publication/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://zippelsf.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://zippelsf.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Turbulence from Breaking Surface Waves at a River Mouth</title>
-      <link>https://zippelsf.github.io/publication/journal-article/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://zippelsf.github.io/publication/journal-article/</guid>
+      <title>Moored Turbulence Measurements using Pulse-Coherent Doppler Sonar</title>
+      <link>https://zippelsf.github.io/publication/zippel-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zippelsf.github.io/publication/zippel-2021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://zippelsf.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://zippelsf.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Measurements of enhanced near-surface turbulence under windrows</title>
+      <link>https://zippelsf.github.io/publication/zippel-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://zippelsf.github.io/publication/zippel-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulence from breaking surface waves at a river mouth</title>
+      <link>https://zippelsf.github.io/publication/zippel-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://zippelsf.github.io/publication/zippel-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface wave breaking over sheared currents: Observations from the Mouth of the Columbia River</title>
+      <link>https://zippelsf.github.io/publication/zippel-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://zippelsf.github.io/publication/zippel-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Air-sea interactions in the marginal ice zone</title>
+      <link>https://zippelsf.github.io/publication/zippel-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://zippelsf.github.io/publication/zippel-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave breaking and turbulence at a tidal inlet</title>
+      <link>https://zippelsf.github.io/publication/zippel-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://zippelsf.github.io/publication/zippel-2015/</guid>
+      <description></description>
     </item>
     
   </channel>
