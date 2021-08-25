@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Zippel Lab @ WHOI</title>
-    <link>https://zippelsf.github.io/project/</link>
-      <atom:link href="https://zippelsf.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>NASA | Zippel Lab @ WHOI</title>
+    <link>https://zippelsf.github.io/tags/nasa/</link>
+      <atom:link href="https://zippelsf.github.io/tags/nasa/index.xml" rel="self" type="application/rss+xml" />
+    <description>NASA</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 25 Aug 2021 17:03:34 -0400</lastBuildDate>
     <image>
       <url>https://zippelsf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>https://zippelsf.github.io/project/</link>
+      <title>NASA</title>
+      <link>https://zippelsf.github.io/tags/nasa/</link>
     </image>
     
     <item>
@@ -27,23 +27,6 @@
 &lt;p&gt;SASSIE will address its science themes in a multi-scale in situ, airborne, satellite, and modeling experiment. The primary aim of the field campaign is to capture the upper ocean structure during the transition from summer sea ice retreat to autumn sea ice advance. We will quantify the strength, size, and depth of fresh near-surface anomalies resulting from melting ice; the horizontal and vertical structure of those fresh anomalies as they evolve due to air-sea fluxes and waves, ocean currents and mixing; and the ocean conditions and the presence of sea ice as it begins to form.&lt;/p&gt;
 &lt;p&gt;See the main project site here: &lt;a href=&#34;https://salinity.oceansciences.org/sassie.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://salinity.oceansciences.org/sassie.htm&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Air/Sea Fluxes Mediated by Pressure Work</title>
-      <link>https://zippelsf.github.io/project/pressure-work/</link>
-      <pubDate>Wed, 14 Oct 2020 15:22:22 -0400</pubDate>
-      <guid>https://zippelsf.github.io/project/pressure-work/</guid>
-      <description>&lt;p&gt;Drs. Seth Zippel, Malcolm Scully, and  Jim Edson are seeking a doctoral student for an NSF-funded project to study turbulence in the oceanic and atmospheric boundary layers. We are hoping to understand the role of ocean waves, wave breaking, and turbulent pressure in atmosphere and ocean exchanges, which are central to understanding air/sea transfer of heat, gasses, and momentum. We will conduct two field experiments with a tower in Pamlico sound, NC, collecting wave, turbulence, and pressure data on both the atmosphere and water sides of the boundary. These findings will help improve our fundamental understanding of air/sea interactions, which are central to weather, climate, and upper ocean transport for biota, plastics, and other tracers.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Smart Oceans 2020</title>
-      <link>https://zippelsf.github.io/project/smart-oceans-2020/</link>
-      <pubDate>Wed, 14 Oct 2020 15:06:47 -0400</pubDate>
-      <guid>https://zippelsf.github.io/project/smart-oceans-2020/</guid>
-      <description></description>
     </item>
     
   </channel>
