@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WHOI | Zippel Lab @ WHOI</title>
-    <link>https://zippelsf.github.io/tags/whoi/</link>
-      <atom:link href="https://zippelsf.github.io/tags/whoi/index.xml" rel="self" type="application/rss+xml" />
-    <description>WHOI</description>
+    <title>Pressure-Work | Zippel Lab @ WHOI</title>
+    <link>https://zippelsf.github.io/tags/pressure-work/</link>
+      <atom:link href="https://zippelsf.github.io/tags/pressure-work/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pressure-Work</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 15 Apr 2022 10:40:05 -0400</lastBuildDate>
     <image>
       <url>https://zippelsf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>WHOI</title>
-      <link>https://zippelsf.github.io/tags/whoi/</link>
+      <title>Pressure-Work</title>
+      <link>https://zippelsf.github.io/tags/pressure-work/</link>
     </image>
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://zippelsf.github.io/post/bbasit-spring-updates/</guid>
       <description>&lt;p&gt;After a long year of planning and logistical hurdles, including a change of location from North Carolina to Buzzards Bay, we successfully deployed our air-sea interaction tower this April. The tower, dubbed BBASIT (Buzzards Bay Air-Sea Interaction Tower), is a 70 ft tall open-frame tower in 40 ft of water that serves as a stable platform for a host of meteorological and oceanic instrumentation as part of an NSF-funded project to study turbulence near the air/water interface.&lt;/p&gt;
 &lt;p&gt;The dense vertical array of ocean and atmospheric sensors are measuring winds, currents, waves, temperature, and turbulence (to name a few). We hope that the data from BBASIT will illuminate how kinetic energy is transferred from the air to surface waves, and from waves to the water below. These energy transfers are central to how the air, the waves, and the water are linked, which impacts the air/water transfer of heat, gasses and momentum. All of these exchanges are important components for predictions of weather and climate. We hope our findings here can improve how these weather and climate models calculate air/sea transfers.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>O2 Flux at WBNERR</title>
-      <link>https://zippelsf.github.io/post/o2-flux-at-wbnerr/</link>
-      <pubDate>Thu, 15 Oct 2020 09:45:01 -0400</pubDate>
-      <guid>https://zippelsf.github.io/post/o2-flux-at-wbnerr/</guid>
-      <description>&lt;p&gt;This week, Matt Long and I are testing a new theory we have about how much oxygen can be transfered between the air and water in estuaries and ponds. Currently, nost scientists apply a formula for this transfer (called the gas transfer velocity, because it has units of m/s) based only on the wind speed. This works in the open ocean where waves have room to grow, and are typically in lock step with the local wind. In small ponds and estuaries, the distance wind can blow over water (called fetch) limits the growth of waves, and changes how much turbulence is at the air/water boundary. These smaller waves and modified turbulence levels then change how much gas can be exchanged across the interface. We are collecting data this week at Waquoit Bay to test a new formula that includes fetch in estimating the gas tranfer velocity. Our hope is that this will improve estimates of oxygen flux in nearshore regions.&lt;/p&gt;
 </description>
     </item>
     

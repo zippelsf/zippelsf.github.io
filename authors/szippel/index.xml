@@ -5,12 +5,22 @@
     <link>https://zippelsf.github.io/authors/szippel/</link>
       <atom:link href="https://zippelsf.github.io/authors/szippel/index.xml" rel="self" type="application/rss+xml" />
     <description>Seth Zippel (he/him)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 25 Aug 2021 17:03:34 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 15 Apr 2022 10:40:05 -0400</lastBuildDate>
     <image>
       <url>https://zippelsf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Seth Zippel (he/him)</title>
       <link>https://zippelsf.github.io/authors/szippel/</link>
     </image>
+    
+    <item>
+      <title>BBASIT Spring Updates</title>
+      <link>https://zippelsf.github.io/post/bbasit-spring-updates/</link>
+      <pubDate>Fri, 15 Apr 2022 10:40:05 -0400</pubDate>
+      <guid>https://zippelsf.github.io/post/bbasit-spring-updates/</guid>
+      <description>&lt;p&gt;After a long year of planning and logistical hurdles, including a change of location from North Carolina to Buzzards Bay, we successfully deployed our air-sea interaction tower this April. The tower, dubbed BBASIT (Buzzards Bay Air-Sea Interaction Tower), is a 70 ft tall open-frame tower in 40 ft of water that serves as a stable platform for a host of meteorological and oceanic instrumentation as part of an NSF-funded project to study turbulence near the air/water interface.&lt;/p&gt;
+&lt;p&gt;The dense vertical array of ocean and atmospheric sensors are measuring winds, currents, waves, temperature, and turbulence (to name a few). We hope that the data from BBASIT will illuminate how kinetic energy is transferred from the air to surface waves, and from waves to the water below. These energy transfers are central to how the air, the waves, and the water are linked, which impacts the air/water transfer of heat, gasses and momentum. All of these exchanges are important components for predictions of weather and climate. We hope our findings here can improve how these weather and climate models calculate air/sea transfers.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Salinity And Stratification at the Sea Ice Edge (SASSIE)</title>
