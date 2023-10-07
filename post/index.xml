@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Zippel Lab @ WHOI</title>
+    <title>Posts | Zippel Lab @ OSU</title>
     <link>https://zippelsf.github.io/post/</link>
       <atom:link href="https://zippelsf.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 15 Apr 2022 10:40:05 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 07 Oct 2023 14:45:01 -0700</lastBuildDate>
     <image>
       <url>https://zippelsf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://zippelsf.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Sofar Buoys at ASIT</title>
+      <link>https://zippelsf.github.io/post/sofar-buoys-at-asit/</link>
+      <pubDate>Sat, 07 Oct 2023 14:45:01 -0700</pubDate>
+      <guid>https://zippelsf.github.io/post/sofar-buoys-at-asit/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m working with folks at Sofar Ocean to test a new iteration of Spotter buoys. An ongoing problem in air/sea interactions is global estimates of air/sea turbulent heat fluxes. These can be estimated using &amp;ldquo;bulk&amp;rdquo; algorithms with measurements of winds, sea surface temperature, air temperature, relative hummidity,  atmospheric pressure, and rain. While some of these quantities can be measured globally from space, near-surface air temperature and humidity remain a challenge.&lt;/p&gt;
+&lt;p&gt;We are testing some new sensors on Spotter buoys to help address this data gap. My group helped deploy 5 new prototype Spotters in early September at the Air Sea Interaction Tower (ASIT) south of Martha&amp;rsquo;s Vineyard, where we will test the new buoys against high-quality meterological measurements made from the tower. This location is particularly appealing due to the stable nature of this offshore research station, which allows for direct measurement of turbulent fluxes without having to deal with the motion of ships and buoys which complicates flux measurements. In addition, ASIT is cabled to shore with a steady supply of power and a fiber optic cable for data transmission so that we don&amp;rsquo;t have to worry about power usage and batteries, and we are able to &amp;ldquo;talk&amp;rdquo; to the instruments in real time.&lt;/p&gt;
+&lt;p&gt;Future analysis will test how well the new Spotters are able to capture the turbulent heat fluxes and rain rates with their newly integrated sensors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Moved to OSU!</title>
+      <link>https://zippelsf.github.io/post/moved-to-osu/</link>
+      <pubDate>Wed, 01 Mar 2023 14:41:05 -0700</pubDate>
+      <guid>https://zippelsf.github.io/post/moved-to-osu/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve moved to Oregon State! While I will miss Woods Hole, I am so excited to join the wonderfull folks at CEOAS, and can&amp;rsquo;t wait to start this new chapter of my career.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BBASIT Spring Updates</title>
