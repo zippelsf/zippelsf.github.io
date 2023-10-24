@@ -5,12 +5,21 @@
     <link>https://zippelsf.github.io/authors/szippel/</link>
       <atom:link href="https://zippelsf.github.io/authors/szippel/index.xml" rel="self" type="application/rss+xml" />
     <description>Seth Zippel (he/him)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 07 Oct 2023 15:02:09 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 24 Oct 2023 12:48:26 -0700</lastBuildDate>
     <image>
       <url>https://zippelsf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Seth Zippel (he/him)</title>
       <link>https://zippelsf.github.io/authors/szippel/</link>
     </image>
+    
+    <item>
+      <title>SASSIE Data Available</title>
+      <link>https://zippelsf.github.io/post/sassie-data-live/</link>
+      <pubDate>Tue, 24 Oct 2023 12:48:26 -0700</pubDate>
+      <guid>https://zippelsf.github.io/post/sassie-data-live/</guid>
+      <description>&lt;p&gt;Data and code for SASSIE is available! Check out what is available &lt;a href=&#34;https://salinity.oceansciences.org/sassie-data.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>WFIP3</title>
