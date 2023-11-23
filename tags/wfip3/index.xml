@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WFIP3 | Zippel Lab @ OSU</title>
+    <link>https://zippelsf.github.io/tags/wfip3/</link>
+      <atom:link href="https://zippelsf.github.io/tags/wfip3/index.xml" rel="self" type="application/rss+xml" />
+    <description>WFIP3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 22 Nov 2023 17:13:29 -0600</lastBuildDate>
+    <image>
+      <url>https://zippelsf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>WFIP3</title>
+      <link>https://zippelsf.github.io/tags/wfip3/</link>
+    </image>
+    
+    <item>
+      <title>WFIP3 ASIT Mast Deployment</title>
+      <link>https://zippelsf.github.io/post/wfip3-asit-deployment/</link>
+      <pubDate>Wed, 22 Nov 2023 17:13:29 -0600</pubDate>
+      <guid>https://zippelsf.github.io/post/wfip3-asit-deployment/</guid>
+      <description>&lt;p&gt;Earlier this month we deployed a suite of sensors on WHOI&amp;rsquo;s ASIT (Air/Sea Interaction Tower) as part of a DOE-funded project to improve offshore wind forecasts. The focus of this deployment was to install sensors to measure and characterize the marine boundary layer. Several sensors are already maintained at ASIT, and we added additional capability by installing a 30-ft mast fixed to the diving board, the human-walkable platform at roughly 35ft above the water.&lt;/p&gt;
+&lt;p&gt;We transported the mast to ASIT using WHOI&amp;rsquo;s R/V Tioga, strapping it horizontally to the back of the A-frame. The mast was too tall to fit upright on the Tioga without hitting the bottom of the diving board, and transporting it horizontally allowed us more maneuverability when picking the mast onto the tower.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;tioga.jpeg&#34; alt=&#34;alt text&#34; title=&#34;Title&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It was a challenging pick. With winds much higher than were forecast for the day, the Tioga was unable to hold position for long underneath ASIT&amp;rsquo;s diving board. This gave our team very little time to grab the hoisting line with a boathook, shackle the hoisting line to our lifting bridle on the mast, and hoist the mast clear of the Tioga&amp;rsquo;s A-frame.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;after_pick.jpeg&#34; alt=&#34;alt text&#34; title=&#34;Title&#34;&gt;&lt;/p&gt;
+&lt;p&gt;With the mast clear of the Tioga, we had to rotate it upright and pull it above the diving board to install sensors which were removed to avoid possible damage during transfer from Tioga to ASIT. We ran into a small hiccup when the mast started to rotate due to the weight of the booms, but due to some quick thinking from the field team we were able to rotate the mast back into the intended position.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;diving_board.jpeg&#34; alt=&#34;alt text&#34; title=&#34;Title&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Fortunately all of our sensors were working as expected and communicating with our data logger when powered on. Now, all that was needed were a few final tasks to further secure the mast in position, and to make sure our cables were fixed in place.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured.jpeg&#34; alt=&#34;alt text&#34; title=&#34;Title&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Because ASIT has a fiber-optic cable running along the sea floor connecting it to shore, we can check the data in real time. A good first check for data quality is to compare it against proven models and/or previously accepted data. So far, the data from the mast look like they are in agreement with &amp;ldquo;bulk&amp;rdquo; methods for determining air/sea fluxes of momentum and heat.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;WFIP3-MAST_bulk_vs_DCFS.jpg&#34; alt=&#34;alt text&#34; title=&#34;Title&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
