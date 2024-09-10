@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oaklin R Keefe | Zippel Lab @ OSU</title>
+    <link>https://zippelsf.github.io/authors/oaklin-r-keefe/</link>
+      <atom:link href="https://zippelsf.github.io/authors/oaklin-r-keefe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oaklin R Keefe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zippelsf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Oaklin R Keefe</title>
+      <link>https://zippelsf.github.io/authors/oaklin-r-keefe/</link>
+    </image>
+    
+    <item>
+      <title>Direct Observation of Wave-Coherent Pressure Work in the Atmospheric Boundary Layer</title>
+      <link>https://zippelsf.github.io/publication/zippel-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zippelsf.github.io/publication/zippel-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
