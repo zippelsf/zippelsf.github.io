@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eric-S-Rojas | Zippel Lab @ OSU</title>
+    <title>Eric Rojas | Zippel Lab @ OSU</title>
     <link>https://zippelsf.github.io/authors/eric-s-rojas/</link>
       <atom:link href="https://zippelsf.github.io/authors/eric-s-rojas/index.xml" rel="self" type="application/rss+xml" />
-    <description>Eric-S-Rojas</description>
+    <description>Eric Rojas</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
       <url>https://zippelsf.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Eric-S-Rojas</title>
-      <link>https://zippelsf.github.io/authors/eric-s-rojas/</link>
-    </image>
-    
-    <item>
       <title>Eric Rojas</title>
       <link>https://zippelsf.github.io/authors/eric-s-rojas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zippelsf.github.io/authors/eric-s-rojas/</guid>
-      <description>&lt;p&gt;Eric Rojas is a new PhD student at Oregon State University working with Seth Zippel and Jenny Hutchings. Eric is working with data on the SASSIE Project to better understand salinity and sea-ice processes in polar regions. These interactions are influenced by air-sea interaction, upper ocean and ocean surface processes, as well as changes in climate. Outside the lab, he likes to play racquetball, go hiking, and read.&lt;/p&gt;
-</description>
-    </item>
+    </image>
     
   </channel>
 </rss>
